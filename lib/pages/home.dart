@@ -43,7 +43,6 @@ class _HomePageState extends State<HomePage> {
         currentIndex: currentTab,
         items: [
           BottomNavigationBarItem(
-
             icon: Icon(Icons.shield),
             label: 'Portefeuille',
           ),
