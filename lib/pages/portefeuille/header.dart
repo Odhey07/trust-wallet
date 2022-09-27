@@ -21,7 +21,9 @@ class _HeaderPageState extends State<HeaderPage> {
             "Portefeuille multi-monnaies 2",
             style: TextStyle(color: Colors.white70),
           ),
-          SizedBox(height: 27,),
+          SizedBox(
+            height: 27,
+          ),
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceAround,
             children: [
@@ -39,7 +41,9 @@ class _HeaderPageState extends State<HeaderPage> {
                         color: Colors.white70,
                       ),
                     ),
-                    SizedBox(height: 10,),
+                    SizedBox(
+                      height: 10,
+                    ),
                     Text(
                       "Envoyer",
                       style: TextStyle(color: Colors.white70),
@@ -61,7 +65,9 @@ class _HeaderPageState extends State<HeaderPage> {
                         color: Colors.white70,
                       ),
                     ),
-                    SizedBox(height: 10,),
+                    SizedBox(
+                      height: 10,
+                    ),
                     Text(
                       "Recevoir",
                       style: TextStyle(color: Colors.white70),
@@ -83,7 +89,9 @@ class _HeaderPageState extends State<HeaderPage> {
                         color: Colors.white70,
                       ),
                     ),
-                    SizedBox(height: 10,),
+                    SizedBox(
+                      height: 10,
+                    ),
                     Text(
                       "Acheter",
                       style: TextStyle(color: Colors.white70),
@@ -105,7 +113,9 @@ class _HeaderPageState extends State<HeaderPage> {
                         color: Colors.white70,
                       ),
                     ),
-                    SizedBox(height: 10,),
+                    SizedBox(
+                      height: 10,
+                    ),
                     Text(
                       "Swap",
                       style: TextStyle(color: Colors.white70),
